@@ -1,0 +1,31 @@
+
+*{
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+body, html {
+    margin: 0px;
+    font-family: 'Quicksand', sans-serif;
+    height: 100%;
+    width: 100%;
+
+
+  }
+
+  #root{
+    height: 100%;
+    width: 100%;
+  }
+
+  .App{
+    height: 100%;
+    width: 100%;
+  }
+
+@import 'App/App';
+@import 'Home/Home';
+@import 'Instructions/Instructions';
+@import 'Choose/Choose';
+@import 'Custom/Custom';

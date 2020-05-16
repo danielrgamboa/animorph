@@ -1,0 +1,19 @@
+#background {
+    background-image: url(/images/homebackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.buttonpos {
+    position: absolute;
+    bottom: 100px;
+    right: 150px;
+}
+
+.buttonposCustom{
+    position: absolute;
+    bottom: 80px;
+    right: 150px;
+}
