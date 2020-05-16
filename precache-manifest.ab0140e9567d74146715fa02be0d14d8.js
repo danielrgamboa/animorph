@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aeda87817d7e4bb427aa0a6bd96a7203",
+    "revision": "f8ff11296630ffe6ba12f8b5503d9589",
     "url": "/animorph/index.html"
   },
   {
