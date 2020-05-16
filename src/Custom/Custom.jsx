@@ -183,7 +183,7 @@ const Custom = (props) => {
             case 2:
                 let element2 = document.getElementById('chin')
                 element2.style.top = '0px';
-                element2.style.left = '-9px';
+                element2.style.left = '-8px';
                 break;
 
             case 3:
