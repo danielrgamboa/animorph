@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/animorph/precache-manifest.db9ecc644c1ac4aca38f680430c7ad49.js"
+  "/animorph/precache-manifest.4915fbef3ae954bf624a67e00d27f570.js"
 );
 
 self.addEventListener('message', (event) => {
