@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8ff11296630ffe6ba12f8b5503d9589",
+    "revision": "0cc8454174c2480d01571291089c65ef",
     "url": "/animorph/index.html"
   },
   {
-    "revision": "7a9fab68132001a39873",
+    "revision": "735dc80af6882db6e0ef",
     "url": "/animorph/static/css/main.84efb8f8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/animorph/static/js/2.ae63d8f7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7a9fab68132001a39873",
-    "url": "/animorph/static/js/main.ff3ee7a5.chunk.js"
+    "revision": "735dc80af6882db6e0ef",
+    "url": "/animorph/static/js/main.079da846.chunk.js"
   },
   {
     "revision": "88cadbd7ccc6eee08f19",
